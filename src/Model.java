@@ -21,7 +21,7 @@ public class Model {
     }
 
     /**
-     * @bried Gets the boardT associated with the Model Object
+     * @brief Gets the boardT associated with the Model Object
      * @return Returns the boardT associated with the Model Object
      */
     public BoardT getBoardT() {
